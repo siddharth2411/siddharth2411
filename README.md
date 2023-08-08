@@ -4,7 +4,6 @@
 **siddharth2411/siddharth2411** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 
-- 🔭 I’m currently working on expanding my technical skills.
-- 🌱 I’m currently learning Web Development.
-- 👯 I’m looking to collaborate on web development projects.
+- Working as a Software Engineer at Yugabyte.
+- Previously interned at Disney+Hotstar and Twilio.
 - 💬 Ask me about startups, photography.
