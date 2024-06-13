@@ -6,4 +6,5 @@
 
 - 🧑‍💻 Working as a Software Engineer at Yugabyte.
 - ⎗ Previously interned at Disney+Hotstar and Twilio.
-- 💬 Ask me about startups, photography.
+- Interested in Distributed Systems, Databases.
+- 💬 Ask me about startups, finance, photography.
